@@ -1,2 +1,2 @@
-# ohort-Analysis-for-assessing-customer-retention-in-E-commerce-industry
-This project explores Cohort Analysis to understand customer behavior over time by segmenting customers based on their purchase patterns. Through this analysis, key opportunities for customer retention were identified, leading to optimized marketing strategies that enhanced customer engagement and improved campaign effectiveness for businesses.
+# Cohort-Analysis-for-assessing-customer-retention-in-E-commerce-industry
+This project explores Cohort Analysis to understand customer behaviour over time by segmenting customers based on purchase patterns. Through this analysis, key opportunities for customer retention were identified, leading to optimized marketing strategies that enhanced customer engagement and improved campaign effectiveness for businesses.
